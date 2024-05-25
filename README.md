@@ -3,7 +3,7 @@ Build a Docker image with GitHub actions
 
 ## Pre-requisites
 
-* Create your GitHub account
+* Create your GitHub account...
 * Create your Docker Hub account
 
 ## Steps
